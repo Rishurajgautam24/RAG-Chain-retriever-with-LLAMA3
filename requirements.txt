@@ -1,0 +1,10 @@
+ipykernel
+langchain_core
+python-dotenv
+streamlit
+langchain_community
+langserve
+langchain
+bs4
+pypdf
+chromadb
